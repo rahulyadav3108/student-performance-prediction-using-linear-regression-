@@ -1,0 +1,2 @@
+# student-performance-prediction-using-linear-regression-
+This project aims to predict students’ academic performance based on various factors such as study hours, previous grades . Using Linear Regression, a fundamental supervised learning algorithm.The main goal is to identify key factors that influence academic outcomes and to create a model that can accurately forecast a student’s performance.
